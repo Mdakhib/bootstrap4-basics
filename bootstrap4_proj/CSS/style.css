@@ -1,0 +1,7 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+.height{
+    /* height: 700px; */
+    min-height: 100vh;
+}
